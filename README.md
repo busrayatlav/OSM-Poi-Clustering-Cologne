@@ -30,6 +30,7 @@ Clustered POI data is saved to a CSV file: clustered_poi_data.csv
 A scatter plot showing the clusters is displayed.
 
 Project Structure
+
 poi-clustering-cologne/
 │
 ├── poi_clustering.py      # Main script for fetching, clustering, and visualizing POIs
@@ -37,6 +38,7 @@ poi-clustering-cologne/
 ├── README.md              # Project documentation
 ├── images/                # Folder for storing external images for plots
 └── output/                # Folder for saving results (e.g., clustered data CSV)
+
 
 Visualization Example
 - Scatter Plot of Clusters
