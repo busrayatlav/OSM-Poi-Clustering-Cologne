@@ -50,5 +50,7 @@ You can customize the script by modifying:
 - tags_poi: Add or remove amenity types to include specific POIs of interest.
 - num_clusters: Adjust the number of clusters for K-means.
 
+
 License
+
 This project is licensed under the MIT License.
