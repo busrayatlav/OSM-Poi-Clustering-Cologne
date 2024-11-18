@@ -17,14 +17,17 @@ This project focuses on clustering Points of Interest (POIs) in Cologne, Germany
 - pandas: For data manipulation and storage.
 - geopandas: For geographic data handling.
   
-## How to Run ( )
+## How to Run
 **1.** Clone this repository:
 git clone https://github.com/your-username/poi-clustering-cologne.git
-cd poi-clustering-cologne ( )
+cd poi-clustering-cologne
+
 **2.** Install dependencies:
 pip install -r requirements.txt
+
 **3.** Run the script:
-python poi_clustering.py ( )
+python poi_clustering.py
+
 **4.** View the output:
 Clustered POI data is saved to a CSV file: clustered_poi_data.csv
 A scatter plot showing the clusters is displayed.
