@@ -1,6 +1,6 @@
 # POI Clustering and Visualization in Cologne, Germany
 
-This project focuses on clustering Points of Interest (POIs) in Cologne, Germany, using OpenStreetMap (OSM) data and K-means clustering. The goal is to analyze and visualize various POIs, categorized into different amenity types, and identify spatial clusters.
+This project focuses on **clustering Points of Interest (POIs) in Cologne, Germany**, using **OpenStreetMap (OSM) data and K-means clustering**. The goal is to analyze and visualize various POIs, categorized into different amenity types, and identify spatial clusters.
 
 ## Features
 - Fetches POI data from OpenStreetMap for various amenities like restaurants, parks, libraries, cinemas, etc.
