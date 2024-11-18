@@ -16,7 +16,7 @@ Tools & Libraries Used
 - Pillow: For overlaying external images onto plots.
 - pandas: For data manipulation and storage.
 - geopandas: For geographic data handling.
-- 
+  
 How to Run
 1. Clone this repository:
 git clone https://github.com/your-username/poi-clustering-cologne.git
@@ -39,16 +39,16 @@ poi-clustering-cologne/
 ├── images/                # Folder for storing external images for plots
 └── output/                # Folder for saving results (e.g., clustered data CSV)
 
-
 Visualization Example
 - Scatter Plot of Clusters
 - POI Map with Custom Image
 
 Customization
+
 You can customize the script by modifying:
 - place_name: Change the city or location to analyze POIs in different areas.
 - tags_poi: Add or remove amenity types to include specific POIs of interest.
 - num_clusters: Adjust the number of clusters for K-means.
-- 
+
 License
 This project is licensed under the MIT License.
